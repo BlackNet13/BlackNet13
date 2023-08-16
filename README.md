@@ -1,7 +1,7 @@
 <p align="right">Connect with me:</p><p align="right"><a href="https://www.linkedin.com/in/yvonyen8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="something" height="20" width="30" /></a></p>
 
 ## About me 👋 
-<h1 align="left">Hi there, I'm Yvon</h1>
+<h1 align="left">Hi there, I'm Yvonne</h1>
 
 <h3 align="left">A passionate software developer from Singapore   <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=0e75b6&style=flat" alt="blacknet13" /> </h3> 
 <p align="left">  </p>
