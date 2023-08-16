@@ -1,9 +1,9 @@
 ## About me 👋
-<h1 align="center">Hi there, I'm Yvon</h1>
-<h3 align="center">A passionate software developer from Singapore</h3>
+<h1 align="left">Hi there, I'm Yvon</h1>
+<h3 align="left">A passionate software developer from Singapore <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=0e75b6&style=flat" alt="blacknet13" /> </h3> 
+<p align="left">  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=0e75b6&style=flat" alt="blacknet13" /> </p>
-
+<hr>
 - 🌱 I’m currently learning **Java,PHP**
 
 <!--- 👨‍💻 All of my projects are available at [portfolio](tba)-->
@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacknet13&show_icons=true&locale=en" alt="blacknet13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacknet13&" alt="blacknet13" /></p>
+
+<h4 align="left">Support Me:</h4>
+<p><a href="https://ko-fi.com/blacknet13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="blacknet13" /></a></p><br><br>
