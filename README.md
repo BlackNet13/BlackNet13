@@ -51,4 +51,4 @@
 <h4 align="left">Support Me:</h4>
 <p><a href="https://ko-fi.com/blacknet13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="blacknet13" /></a></p><br><br>
 
-<br><p>This readme is generated with the help of a readme generator and I have modified the code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> </p>
+<br><p>This readme is generated with the help of a readme generator done by <a href="https://github.com/rahuldkjain">Rahul Jain</a> and I have modified the code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> </p>
