@@ -58,5 +58,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Blacknet13&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 
-<br><p>This readme is generated with the help of a readme generator found on <a href="https://github.com/rahuldkjain">Rahul Jain's page</a> and one other reccomended by <a href="https://github.com/ortoniKC">Koushik Chatterjee</a> on his youtube channel. I have modified the README code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> </p>
-<a href="https://gprm.itsvg.in/">Or here, this one has more options</a>
+<br><p>This readme is generated with the help of a readme generator found on <a href="https://github.com/rahuldkjain">Rahul Jain's page</a> and one other reccomended by <a href="https://github.com/ortoniKC">Koushik Chatterjee</a> on his youtube channel. I have modified the README code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> or here, <a href="https://gprm.itsvg.in/">this one has more options</a></p>
+
