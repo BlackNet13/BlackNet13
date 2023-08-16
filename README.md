@@ -4,7 +4,8 @@
 <h1 align="left">Hi there, I'm Yvonne</h1>
 
 <h3 align="left"><!--A passionate software developer from Singapore-->A student from RP studying Digital Design and Development  <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=ff66cc&style=flat" alt="blacknet13" /> </h3> 
-<p align="left">  </p>
+
+
 <hr>
 
 - 🌱 I’m currently learning **Java,PHP**
@@ -44,19 +45,24 @@
 
 <hr>
 
-## GitHub Stats 📊:
+<details>
+ <summary> <h2> GitHub Stats 📊</h2> </summary>
+   
 ![](https://github-readme-stats.vercel.app/api?username=Blacknet13&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blacknet13&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacknet13&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
+<details>
+ <summary> <h2> GitHub Trophies 🏆</h2> </summary>
+   
+![](https://github-profile-trophy.vercel.app/?username=Blacknet13&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+
+</details>
 
 <h4 align="left">Support Me:</h4>
 <p><a href="https://ko-fi.com/blacknet13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="blacknet13" /></a></p><br><br>
 
 <hr>
-
-## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=Blacknet13&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
 
 <br><p>This readme is generated with the help of a readme generator found on <a href="https://github.com/rahuldkjain">Rahul Jain's page</a> and one other reccomended by <a href="https://github.com/ortoniKC">Koushik Chatterjee</a> on his youtube channel. I have modified the README code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> or here, <a href="https://gprm.itsvg.in/">this one has more options</a></p>
 
