@@ -44,11 +44,9 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blacknet13&show_icons=true&locale=en&layout=compact" alt="blacknet13" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacknet13&show_icons=true&locale=en" alt="blacknet13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacknet13&" alt="blacknet13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacknet13&" alt="blacknet13" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blacknet13&show_icons=true&locale=en&layout=compact" alt="blacknet13" /></p>
 
 <h4 align="left">Support Me:</h4>
 <p><a href="https://ko-fi.com/blacknet13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="blacknet13" /></a></p><br><br>
