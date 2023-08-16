@@ -1,18 +1,18 @@
 ## About me 👋
-<h1 align="center">Hi there 👋, I'm Yvon</h1>
+<h1 align="center">Hi there, I'm Yvon</h1>
 <h3 align="center">A passionate software developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=0e75b6&style=flat" alt="blacknet13" /> </p>
 
 - 🌱 I’m currently learning **Java,PHP**
 
-- 👨‍💻 All of my projects are available at [portfolio](tba)
+<!--- 👨‍💻 All of my projects are available at [portfolio](tba)-->
 
 - 📫 How to reach me **evon.work2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/something" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="something" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yvonyen8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="something" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
