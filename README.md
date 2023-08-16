@@ -44,12 +44,19 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacknet13&show_icons=true&locale=en" alt="blacknet13" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacknet13&" alt="blacknet13" /></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blacknet13&show_icons=true&locale=en&layout=compact" alt="blacknet13" /></p>
+## GitHub Stats 📊:
+![](https://github-readme-stats.vercel.app/api?username=Blacknet13&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Blacknet13&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacknet13&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h4 align="left">Support Me:</h4>
 <p><a href="https://ko-fi.com/blacknet13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="blacknet13" /></a></p><br><br>
 
-<br><p>This readme is generated with the help of a readme generator found on <a href="https://github.com/rahuldkjain">Rahul Jain's page</a> and I have modified the README code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> </p>
-<a href="https://gprm.itsvg.in/">Or you can use this one to generate, which has more options</a>
+<hr>
+
+## GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=Blacknet13&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br><p>This readme is generated with the help of a readme generator found on <a href="https://github.com/rahuldkjain">Rahul Jain's page</a> and <a href="https://gprm.itsvg.in/">GPRM</a> I have modified the README code to suit my own needs : <br><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">You can generate your own README here</a> </p>
+<a href="https://gprm.itsvg.in/">Or here, this one has more options</a>
