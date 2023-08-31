@@ -46,6 +46,7 @@
 <hr>
 
 ## Project Highlights
+*click on the image to go to github repository page
 <table>
    <tr>
       <td>Movie List Project</td>
