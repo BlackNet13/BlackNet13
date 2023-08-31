@@ -48,6 +48,9 @@
 ## Project Highlights
 <table>
    <tr>
+      <td>Movie List Project</td>
+   </tr>
+   <tr>
       <td>
          <a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">  
             
