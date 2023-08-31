@@ -45,6 +45,17 @@
 
 <hr>
 
+## Project Highlights
+<table>
+   <tr>
+      <td>
+         <a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">  some image </a>
+      </td>
+   </tr>
+</table>
+
+
+<hr>
 <details>
  <summary> <h2> GitHub Stats 📊</h2> </summary>
    
