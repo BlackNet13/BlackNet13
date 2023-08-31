@@ -53,7 +53,7 @@
    <tr>
       <td>
          <a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">  
-<img src="https://github.com/BlackNet13/BlackNet13/assets/123053395/098a737c-9a0f-48d5-87fa-39f0b2cbfda7" height = "500">
+<img src="https://github.com/BlackNet13/BlackNet13/assets/123053395/098a737c-9a0f-48d5-87fa-39f0b2cbfda7" height = "100">
  </a>
       </td>
    </tr>
