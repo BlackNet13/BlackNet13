@@ -51,7 +51,7 @@
       <td>
          <a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">  
             
- ![splash1](https://github.com/BlackNet13/BlackNet13/assets/123053395/2b9b3b4c-2def-4690-b350-9ff1a9726400) 
+![project1](https://github.com/BlackNet13/BlackNet13/assets/123053395/098a737c-9a0f-48d5-87fa-39f0b2cbfda7)
 
  </a>
       </td>
