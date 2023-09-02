@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java,PHP**
 
--👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [work in progress]
+- 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [work in progress]
 
 - 📫 How to reach me **evon.work2@gmail.com**
 <hr>
