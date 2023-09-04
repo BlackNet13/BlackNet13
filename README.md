@@ -54,13 +54,10 @@
    </tr>
    <tr>
       <td>
-         
 <img src="https://github.com/BlackNet13/BlackNet13/assets/123053395/098a737c-9a0f-48d5-87fa-39f0b2cbfda7" height = "100">
       </td>
       <td>
-         
 <img src="https://github.com/BlackNet13/BlackNet13/assets/123053395/fd391b46-ff39-479a-b5c9-f3a685f00000" height = "100">
-
       </td>
    </tr>
 </table>
