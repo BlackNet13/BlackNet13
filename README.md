@@ -50,7 +50,7 @@
 <table>
    <tr>
       <td><a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">Movie List Project</a></td>
-      <td><a href="https://github.com/BlackNet13/C206_CaseStudy" target="blank">CCA Registration System(Team)</a></td>
+      <td><a href="https://github.com/BlackNet13/C206_CaseStudy" target="blank">CCA Registration System(Team Project)</a></td>
    </tr>
    <tr>
       <td>
