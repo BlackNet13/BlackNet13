@@ -46,7 +46,7 @@
 <hr>
 
 ## Project Highlights
-*click on project title to go to github repository page
+*click on project title to go to github repository page | **Repository containing projects not on github: <a href="https://github.com/BlackNet13/OtherProjects">Link</a>
 <table>
    <tr>
       <td><a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">Movie List Project</a></td>
