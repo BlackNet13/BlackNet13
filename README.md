@@ -8,7 +8,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Java,PHP**
+- 🌱 I’m currently learning **Javascript, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [work in progress]
 
