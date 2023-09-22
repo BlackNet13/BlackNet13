@@ -3,7 +3,8 @@
 ## About me 👋 
 <h1 align="left">Hi there, I'm Yvonne</h1>
 
-<h3 align="left"><!--A passionate software developer from Singapore-->A student from RP studying Digital Design and Development  <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=ff66cc&style=flat" alt="blacknet13" /> </h3> 
+<!--A passionate software developer from Singapore-->
+<h3 align="left"> A student from RP studying Digital Design and Development  <img src="https://komarev.com/ghpvc/?username=blacknet13&label=Profile%20views&color=ff66cc&style=flat" alt="blacknet13" /> </h3> 
 
 
 <hr>
