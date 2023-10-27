@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [work in progress]
+- 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [done but changes will be made]
 
 - 📫 How to reach me **evon.work2@gmail.com**
 <hr>
