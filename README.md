@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Unity VR**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) [done but changes will be made]
 
