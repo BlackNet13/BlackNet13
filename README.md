@@ -52,6 +52,7 @@
    <tr>
       <td><a href="https://github.com/BlackNet13/moreMoviesLesson12" target="blank">Movie List Project</a></td>
       <td><a href="https://github.com/BlackNet13/C206_CaseStudy" target="blank">CCA Registration System(Team Project)</a></td>
+      <td><a href="https://github.com/BlackNet13/ward_Management" target="blank">Patient/Ward Management System</a></td>
    </tr>
    <tr>
       <td>
@@ -59,6 +60,8 @@
          </td>
       <td>
 <img src="https://github.com/BlackNet13/BlackNet13/assets/123053395/fd391b46-ff39-479a-b5c9-f3a685f00000" height = "100">
+      </td>
+      <img src="https://github.com/BlackNet13/ward_Management/assets/123053395/f063d449-3f50-4425-9bb3-2c08978307e8" height = "100">
       </td>
    </tr>
 </table>
