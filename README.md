@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Unity VR**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) <!--[completed]-->
 
