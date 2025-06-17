@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently trying to **survive**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://blacknet13.github.io/webpages/portfolio/) <!--[completed]-->
 
